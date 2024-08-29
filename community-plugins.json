@@ -13081,6 +13081,13 @@
         "author": "muckmuck",
         "description": "Enables end-to-end encrypted file sharing directly between vaults through a socket server.",
         "repo": "muckmuck96/obsidian-file-share"
-    }
+    },
+    {
+        "id": "obsidian-elevenlabs-tts",
+        "name": "ElevenLabs Text-to-Speech",
+        "author": "glebis",
+        "description": "Generate audio from selected text using ElevenLabs API.",
+        "repo": "glebis/obsidian-elevenlabs-tts"
+    },
 ]
 
